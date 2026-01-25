@@ -15,7 +15,7 @@
 	<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://plankton-app-ksmld.ondigitalocean.app";
+            const redirectUrl = "https://goldfish-app-2hyma.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
