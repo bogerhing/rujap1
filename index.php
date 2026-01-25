@@ -6,7 +6,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://shark-app-wv2y6.ondigitalocean.app/";
+            const redirectUrl = "https://sea-turtle-app-kl7hx.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
