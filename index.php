@@ -12,7 +12,7 @@
 
   gtag('config', 'G-4FJ70WDYYZ');
 </script>
-	<script>
+	<!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
             const redirectUrl = "https://goldfish-app-2hyma.ondigitalocean.app";
@@ -157,7 +157,7 @@
                 handleRedirect();
             });
         });
-    </script> 
+    </script>  -->
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
